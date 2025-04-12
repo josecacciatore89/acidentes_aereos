@@ -1,0 +1,455 @@
+Ano,Data do acidente,País do acidente,Modelo da aeronave,Número de mortos
+1919,2 de agosto de 1919,Italy,Caproni Ca. 48,13.5
+1920,14 de dezembro,England,Handley Page Type O-400,4.0
+1922,7 de abril de 1922,France,Havilland DH.18A,7.0
+1923,14 de maio de 1923,France,Farman F.60 Goliath,6.0
+1923,27 de agosto de 1923,England,Farman F.60 Goliath,1.0
+1923,16 de junho de 1923,Brazil,Junkers D-218,2.0
+1924,24 de dezembro de 1924,England,Havilland DH.34,8.0
+1926,18 de agosto de 1926,England,Blériot 155,3.0
+1926,2 de outubro de 1926,England,Blériot 155,7.0
+1927,22 de agosto de 1927,England,Fokker F.VIII,1.0
+1927,15 de Novembro de 1927,,Junkers F.13,
+1928,13 de Julho de 1928,England,Vickers Vulcan,6.0
+1928,3 de dezembro de 1928,Brazil,Dornier Do J,1.0
+1930,5 de outubro de 1930,France,R101,48.0
+1930,7 de novembro de 1930,Brazil,Junkers Junkers G 24,1.0
+1931,21 de março de 1931,Australia,Avro 618 Ten,8.0
+1931,31 de março de 1931,USA,Fokker F.10,8.0
+1932,25 de setembro de 1932,Brazil,Sikorsky S-38,0.0
+1933,28 de março de 1933,Belgium,Armstrong Whitworth Argosy,15.0
+1933,10 de Outubro de 1933,USA,Boeing 247,7.0
+1933,30 de dezembro de 1933,Belgium,Avro 618 Ten,10.0
+1934,9 de maio de 1934,English Channel,Wibault 282T,6.0
+1934,27 de julho de 1934,Germany,Curtiss T-32 Condor II,11.0
+1934,2 de outubro de 1934,English Channel,de Havilland Dragon Rapide,7.0
+1934,19 de outubro de 1934,Australia,de Havilland Express DH 86,11.0
+1935,24 de junho de 1935,Colombia,Ford Trimotor,17.0
+1937,12 de janeiro de 1937,USA,Boeing 247,5.0
+1937,7 de Maio de 1937,Germany,Hindenburg,36.0
+1937,16 de Novembro de 1937,Belgium,Junkers Ju 52,12.0
+1938,10 de janeiro de 1938,USA,Lockheed Model 14 Super Electra,10.0
+1938,24 de julho de 1938,Santa Ana,Curtiss F11C Goshawk,62.0
+1938,15 de agosto de 1938,Brazil,Junkers Ju 52,9.0
+1938,25 de outubro de 1938,Australia,Douglas DC-2,18.0
+1939,13 de janeiro de 1939,USA,Lockheed Model 14 Super Electra,4.0
+1939,13 de janeiro de 1939,Brazil,Junkers Ju 52,9.0
+1939,13 de agosto de 1939,Brazil,Sikorsky S-43,14.0
+1940,14 de junho de 1940,Finland,Junkers Ju 52,9.0
+1940,31 de agosto de 1940,USA,Douglas DC-3,25.0
+1940,8 de novembro de 1940,Brazil,Junkers Ju 52,0.0
+1941,26 de fevereiro de 1941,USA,Douglas DC-3,16.0
+1942,16 de janeiro de 1942,USA,TWA,22.0
+1943,9 de janeiro de 1943,Portugal,Short S.26,13.0
+1943,21 de janeiro de 1943,USA,Philippine Clipper,19.0
+1943,22 de fevereiro de 1943,Portugal,Boeing 314,24.0
+1943,1 de junho de 1943,Spain,BOAC,17.0
+1943,4 de julho de 1943,Gibraltar,Avião,1.0
+1943,27 de agosto de 1943,Brazil,Junkers Ju 52,15.0
+1943,28 de julho de 1943,,Douglas DC-3,20.0
+1944,10 de fevereiro de 1944,USA,Douglas DC-2,24.0
+1946,17 de julho de 1946,Spain,Curtiss C-46 Commando,30.0
+1946,3 de outubro de 1946,USA,Douglas C-54,39.0
+1946,27 de setembro de 1946,Brazil,Douglas DC-3,25.0
+1946,23 de dezembro de 1946,Brazil,Avro York,20.0
+1947,1 de fevereiro de 1947,Portugal,Douglas C-47,16.0
+1947,15 de fevereiro de 1947,Colombia,Douglas DC-4,53.0
+1947,12 de agosto de 1947,Andes Mountains,Avro Lancastrian,13.0
+1947,28 de agosto de 1947,Norway,Short Sandringham,35.0
+1947,24 de outubro de 1947,USA,United Airlines,52.0
+1948,29 de janeiro de 1948,USA,Douglas DC 3,32.0
+1948,12 de março de 1948,USA,Douglas C-54,30.0
+1948,5 de abril de 1948,Germany,Vickers VC.1,15.0
+1948,17 de junho de 1948,USA,Douglas D-6,43.0
+1948,30 de agosto de 1948,Brazil,teco-teco,2.0
+1948,2 de outubro de 1948,Norway,Short Sandringham,19.0
+1948,20 de outubro de 1948,Scotland,KLM,40.0
+1949,4 de maio de 1949,Italy,FIAT 6212,31.0
+1949,6 de junho de 1949,Brazil,Douglas C-47,26.0
+1949,9 de setembro de 1949,Canada,Douglas C-47,23.0
+1949,30 de setembro de 1949,Brazil,Consolidated PBY Catalina,4.0
+1949,28 de outubro de 1949,Portugal,Lockheed Constellation,48.0
+1950,28 de julho de 1950,Brazil,Lockheed Constellation,51.0
+1950,30 de julho de 1950,Brazil,Lodestar,1.0
+1950,3 de novembro de 1950,Italy,Lockheed Constellation L749A,48.0
+1951,22 de junho de 1951,Liberia,Lockheed L-049 Constellation,40.0
+1951,12 de julho de 1951,Brazil,Douglas C-47,33.0
+1952,11 de abril de 1952,,Douglas DC-4,52.0
+1952,28 de abril de 1952,Brazil,Boeing 377,50.0
+1952,12 de agosto de 1952,Brazil,Douglas DC-3,24.0
+1954,9 de agosto de 1954,Portugal,Lockheed Constellation,30.0
+1954,12 de setembro de 1954,Brazil,Douglas DC 3,6.0
+1956,30 de junho de 1956,USA,Douglas DC-7,128.0
+1956,9 de julho de 1956,Brazil,C-47,4.0
+1957,7 de abril de 1957,Brazil,Curtiss C-46 Commando,40.0
+1957,10 de abril de 1957,Brazil,Douglas DC-3,4.0
+1957,16 de agosto de 1957,Santo Domingo,Lockheed Constellation,0.0
+1958,2 de Fevereiro de 1958,Brazil,Douglas DC-4,0.0
+1958,6 de Fevereiro de 1958,Germany,Avião,28.0
+1958,6 de Junho de 1958,Brazil,Convair CV-440,24.0
+1958,5 de Setembro de 1958,Brazil,Curtiss C-46 Commando,13.0
+1958,9 de Novembro de 1958,Atlantic Ocean,Hidroavião,36.0
+1958,30 de Dezembro de 1958,Brazil,Saab 90 Skandia,19.0
+1959,11 de janeiro de 1959,Brazil,Lockheed L-1049 Super Constellation,36.0
+1959,26 de junho de 1959,Italy,Lockheed L-1649A Starliner,68.0
+1959,23 de setembro de 1959,Brazil,SAAB Scandia,20.0
+1959,22 de dezembro de 1959,Brazil,Vickers Viscount 827,38.0
+1960,25 de fevereiro de 1960,Brazil,DC-3,3.0
+1960,24 de junho de 1960,Brazil,Convair 340,54.0
+1961,15 de Fevereiro,Belgium,Boeing 707,73
+1961,30 de maio,Portugal,Douglas DC-8,61
+1961,19 de julho,Argentina,Douglas DC-6,67
+1961,1 de novembro,Brazil,Douglas DC-7C,45
+1961,23 de Novembro,Brazil,Comet 4,52
+1962,3 de junho,France,Boeing 707,130
+1962,20 de Agosto,Brazil,DC-8,15
+1962,26 de novembro,Brazil,SAAB Scandia e Cessna 310,26
+1962,27 de novembro,Peru,Boeing 707,97
+1962,14 de Dezembro,Brazil,Lockheed Constellation,50
+1963,3 de maio,Brazil,Convair 340,37
+1963,3 de junho,USA,DC-7,101
+1963,27 de julho,India,Comet IV,61
+1963,4 de setembro,Switzerland,Sud Aviation Caravelle,80
+1963,29 de novembro,Canada,DC-8,118
+1963,8 de dezembro,USA,Boeing 707,81
+1964,29 de fevereiro,Austria,Bristol Britannia,83
+1964,7 de maio,USA,Lockheed L-188 Electra,44
+1964,4 de setembro,Brazil,Viscount,39
+1966,15 de janeiro,Colombia,Douglas C-54 Skymaster,56
+1966,24 de janeiro,France,Boeing 707,114
+1967,5 de março,Liberia,Douglas DC-8,56
+1967,18 de julho,Brazil,Piper Aztec e Lockheed T-33,5
+1970,4 de fevereiro,Argentina,Avro 748,37
+1970,14 de Março,Brazil,,37
+1970,3 de julho,Spain,de Havilland Comet,112
+1971,06 de Junho,USA,Douglas DC-9-31 e F-4 Phantom II,49
+1972,14 de junho,India,,
+1972,13 de Outubro,Andes Mountains,,29
+1972,29 de Dezembro,USA,Lockheed L-1011,99
+1973,1 de Junho,Brazil,Sud Aviation Caravelle,23
+1973,5 de março,Portugal,SE-210 Caravelle 10R,3
+1973,3 de junho,France,Tupolev Tu-144,14
+1973,11 de Julho,France,Boeing 707,122
+1974,3 de março,France,DC10,346
+1974,4 de dezembro,Sri Lanka,Douglas DC-8,191
+1975,4 de abril,Vietnam,C5-A Galaxy,155
+1975,17 de junho,Brazil,Avro hs-748,4
+1975,3 de agosto,Morocco,Boeing 707,188
+1976,10 de setembro,Serbia,DC9 e Trident,176
+1976,19 de setembro,Turkey,Boeing 727,154
+1977,27 de Março,Spain,Boeing 747,583
+1977,20 de Outubro,USA,,
+1977,19 de Novembro,Portugal,Boeing 727,131
+1977,21 de novembro,Argentina,BAC 1-11,46
+1977,2 de dezembro,Libya,Tupolev 154,59
+1977,4 de dezembro,Malaysia,Boeing 737,100
+1977,18 de Dezembro,Portugal,SE-210 Caravelle 10R,36
+1977,29 de dezembro,Ecuador,Vickers Viscount,24
+1978,1° de janeiro,United Arab Emirates,Boeing 747-237B,213
+1978,20 de Abril,Russia,Boeing 707,2
+1978,20 de Agosto,Brazil,Boeing 727-200,0
+1978,25 de Setembro,USA,Boeing 727-214 e Cessna 172,144
+1979,30 de Janeiro,Pacific Ocean,Boeing 707-323C,6
+1979,8 de fevereiro,Brazil,Embraer EMB-110 Bandeirante,18
+1979,25 de Maio,USA,DC-10,273
+1979,26 de Julho,Brazil,Boeing 707,3
+1979,28 de Novembro,Antarctica,DC-10,257
+1980,14 de março,Poland,Ilyushin Il-62,87
+1980,12 de Abril,Brazil,Boeing 727,55
+1980,25 de abril,Spain,Boeing 727,144
+1980,27 de junho,Italy,Douglas DC-9,81
+1980,4 de dezembro,Portugal,,7
+1982,9 de fevereiro,Japan,Boeing 727,24
+1982,24 de maio,Brazil,Boeing 737-2A1,2
+1982,8 de junho,Brazil,Boeing 727-200,137
+1982,24 de junho,Indonesia,Boeing 747-263B,0
+1983,23 de julho,Canada,Boeing 767-200,0
+1983,1 de Setembro,Russia,Boeing 747,269
+1984,18 de abril,Brazil,Embraer EMB-110 Bandeirante,18
+1984,28 de junho,Brazil,Embraer EMB-110 Bandeirante,18
+1984,20 de dezembro,Brazil,,
+1985,23 de junho,Atlantic Ocean,Boeing 747,329
+1985,2 de agosto,USA,Lockheed L-1011,137
+1985,12 de agosto,Japan,Boeing 747,520
+1985,22 de agosto,England,Boeing 737-200,55
+1986,31 de agosto,USA,Douglas DC-9 e Piper PA-28-181 Archer,82
+1986,19 de outubro,South Africa,Tupolev 134 A,34
+1987,3 de janeiro,Ivory Coast,Boeing 707,50
+1987,9 de maio,Poland,Ilyushin Il-62M,183
+1987,28 de novembro,Indian Ocean,Boeing 747,159
+1987,7 de dezembro,USA,Lockheed BAe 146-200,43
+1987,8 de dezembro,Peru,Fokker F27,43
+1988,17 de março,Colombia,Boeing 727,143
+1988,28 de abril,USA,Boeing 737-200,1
+1988,26 de junho,France,Airbus A320-111,3
+1988,3 de julho,Iran,Airbus A300,290
+1988,29 de setembro,Brazil,Boeing 737-300,1
+1988,21 de dezembro,Scotland,Boeing 747,270
+1989,8 de fevereiro,Portugal,Boeing 707,144
+1989,24 de Fevereiro,USA,Boeing 747,9
+1989,10 de março,Canada,Fokker F28-1000,24
+1989,21 de março,Brazil,Boeing 707,25
+1989,19 de julho,USA,Douglas DC-10,111
+1989,3 de setembro,Brazil,Boeing 737-200,12
+1989,19 de setembro,Niger,Douglas DC-10,170
+1989,27 de novembro,Colombia,Boeing 727,110
+1989,28 de novembro,Brazil,,2
+1990,25 de janeiro,USA,Boeing 707,73
+1990,14 de fevereiro,India,Airbus A320,92
+1990,14 de Novembro,Switzerland,DC-9-32,46
+1991,1 de fevereiro,USA,Boeing 737-300 e Fairchild Swearingen Metroliner,35
+1991,3 de março,USA,Boeing 737-200,25
+1991,26 de maio,Thailand,Boeing 767-300ER,223
+1991,11 de julho,Saudi Arabia,McDonnell Douglas DC-8,261
+1992,20 de janeiro,France,Airbus A320,87
+1992,03 de fevereiro,Brazil,Embraer 110 Bandeirante,12
+1992,6 de junho,Panama,Boeing 737-200 Advanced,47
+1992,28 de julho,Brazil,Learjet LR-25C,6
+1992,31 de julho,Nepal,Airbus A310,113
+1992,28 de setembro,Nepal,Airbus A300,167
+1992,4 de outubro,Netherlands,Boeing 747,43
+1992,12 de outubro,Brazil,,5
+1992,14 de novembro,Vietnam,Yakovlev Yak-40,30
+1992,24 de novembro,China,Boeing 737-300,141
+1992,21 de dezembro,Portugal,DC-10,56
+1992,22 de dezembro,Libya,Boeing 727 e MiG-23,159
+1993,17 de Abril,Gabon,De Havilland Canada DHC-5D Buffalo,30
+1994,21 de agosto,Morocco,ATR-42,44
+1994,8 de setembro,USA,Boeing 737-300,0
+1994,23 de março,Russia,Airbus A310,75
+1994,26 de Abril,Japan,Airbus A300,264
+1995,25 de maio,Brazil,,4
+1995,31 de março,Romania,Airbus A310,60
+1995,20 de dezembro,Colombia,Boeing 757,159
+1996,29 de Janeiro,Brazil,,3
+1996,2 de março,Brazil,Learjet 25,9
+1996,17 de julho,USA,Boeing 747,230
+1996,2 de outubro,Peru,Boeing 757,70
+1996,31 de outubro,Brazil,Fokker 100,99
+1996,12 de novembro,India,Boeing 747 e Ilyushin Il-76,349
+1996,23 de novembro,Comoros,Boeing 767-200ER,125
+1997,6 de agosto,USA,Boeing 747-300,228
+1997,15 de agosto,Brazil,Cessna 550 Citation II,2
+1997,9 de julho,Brazil,Fokker 100,1
+1997,14 de julho,Brazil,ERCOUPE 415C,8
+1997,18 de maio,Brazil,Cessna 310 e Skylane,13
+1997,1 de Outubro,Brazil,Embraer EMB-121 Xingú,7
+1997,19 de dezembro,Indonesia,Boeing 737-300,104
+1997,12 de outubro,USA,Long-EZ,1
+1998,16 de fevereiro,Taiwan,Airbus A300,202
+1998,2 de Setembro,Canada,McDonnell Douglas MD-11,229
+1999,1 de junho,USA,McDonnell Douglas MD-82,11
+1999,22 de agosto,Hong Kong,McDonnell Douglas MD-11,3
+1999,31 de outubro,Atlantic Ocean,Boeing 767-300ER,217
+1999,11 de dezembro,Portugal,BAe ATP,35
+2000,10 de janeiro,Switzerland,Saab 340,10
+2000,30 de Janeiro,Ivory Coast,Airbus A310,169
+2000,31 de janeiro,USA,McDonnell Douglas MD-83,88
+2000,19 de abril,Philippines,Boeing 737-200,131
+2000,17 de julho,India,Boeing 737-200,55
+2000,25 de julho,France,Concorde,113
+2000,23 de agosto,Bahrain,Airbus A320,143
+2000,31 de outubro,Taiwan,Boeing 747-400,78
+2001,4 de julho,Russia,Tupolev 154,143
+2001,27 de julho,Brazil,Helicóptero,1
+2001,24 de agosto,Portugal,Airbus A330-300,0
+2001,25 de agosto,Bahamas,Cessna 402,9
+2001,11 de setembro,USA,"Boeing 767, Boeing 757, Boeing 757 e Boeing 767",265
+2001,4 de outubro,Russia,Tupolev 154,78
+2001,8 de outubro,Italy,McDonnell Douglas MD-87 e Cessna Citation II,118
+2001,12 de novembro,USA,Airbus A300,265
+2001,24 de novembro,Switzerland,Saab 340,24
+2002,28 de janeiro,Colombia,Boeing 727-100,92
+2002,12 de fevereiro,Iran,Tupolev 154,119
+2002,25 de maio,Taiwan,Boeing 747,225
+2002,1 de julho,Germany,Boeing 757 e Tupolev Tu-154,71
+2002,28 de agosto,Nepal,DHC-6 Twin Otter,15
+2002,30 de agosto,Brazil,Fokker 100,0
+2002,30 de agosto,Brazil,Embraer EMB-120 Brasília,23
+2002,14 de setembro,Brazil,ATR-42,2
+2003,11 de Setembro,Portugal,Beechcraft King Air 200,10
+2003,22 de novembro,Iraq,Airbus A300,0
+2003,25 de Dezembro,Benin,Boeing 727,151
+2004,3 de janeiro,Red Sea,Boeing 737,148
+2004,14 de maio,Brazil,Embraer EMB-120 Brasília,33
+2005,6 de agosto,Italy,ATR-72,16
+2005,14 de agosto,Greece,Boeing 737,121
+2005,16 de agosto,Venezuela,McDonnell Douglas MD-82,160
+2006,3 de março,Brazil,Helicóptero,2
+2006,31 de março,Brazil,LET410,19
+2006,3 de maio,Russia,Airbus A320,113
+2006,9 de julho,Russia,Airbus A310,131
+2006,10 de julho,Pakistan,Fokker F-27,45
+2006,22 de agosto,Ukraine,Tupolev Tu-154,170
+2006,27 de agosto,USA,Bombardier CRJ100,49
+2006,29 de setembro,Brazil,Boeing 737 e Embraer Legacy 600,154
+2007,1 de janeiro,Indonesia,Boeing 737-400,102
+2007,9 de janeiro,Iraq,Antonov An-26,34
+2007,27 de janeiro,Brazil,Cessna 182,2
+2007,15 de fevereiro,Spain,Boeing 737,0
+2007,21 de fevereiro,Indonesia,Boeing 737,0
+2007,7 de março,Indonesia,Boeing 737,22
+2007,17 de março,Russia,Tupolev Tu-134,6
+2007,23 de março,Somalia,Ilyushin Il-76,11
+2007,30 de março,Sudan,,0
+2007,4 de abril,Brazil,Embraer EMB-314 Super Tucano,1
+2007,5 de maio,Cameroon,Boeing 737-800,114
+2007,3 de junho,Sierra Leone,Mil Mi-8,22
+2007,25 de junho,Cambodia,Antonov An-24,22
+2007,17 de julho,Brazil,Airbus A320,199
+2007,9 de agosto,French Polynesia,de Havilland Canada DHC-6 Twin Otter,20
+2007,20 de agosto,Japan,Boeing 737,0
+2007,4 de novembro,Brazil,Learjet 35,8
+2008,17 de janeiro,England,Boeing 777,0
+2008,23 de janeiro,Poland,Casa C-295M,20
+2008,4 de janeiro,Venezuela,Let L-410 Turbolet,14
+2008,21 de fevereiro,Venezuela,ATR 42-300,46
+2008,20 de agosto,Spain,McDonnell Douglas MD-82,154
+2008,24 de agosto,Kyrgyzstan,Boeing 737-200,68
+2008,14 de setembro,Russia,Boeing 737-500,88
+2008,23 de novembro,Brazil,King Air B-200,2
+2008,27 de novembro,France,Airbus A320,7
+2009,15 de janeiro,USA,Airbus A320,0
+2009,7 de fevereiro,Brazil,Embraer EMB-110 Bandeirante,24
+2009,12 de fevereiro,USA,Bombardier Dash 8 Q400,50
+2009,25 de fevereiro,Netherlands,Boeing 737-800,9
+2009,12 de março,Brazil,Monocasco,2
+2009,20 de maio,Indonesia,Lockheed C-130 Hercules,101
+2009,22 de maio,Brazil,Super King Air B-350,14
+2009,25 de maio,Brazil,Airbus A330,0
+2009,1 de junho,Atlantic Ocean,Airbus A330,228
+2009,30 de junho,Indian Ocean,Airbus A310,152
+2009,14 de julho,Iran,Tupolev Tu-154M,168
+2009,24 de julho,Iran,Tupolev Tu-154M,0
+2010,21 de janeiro,Luxembourg,Boeing 747-400F,0
+2010,24 de janeiro,Iran,Tupolev Tu-154,0
+2010,25 de janeiro,Lebanon,Boeing 737-800,83
+2010,25 de janeiro,Brazil,Embraer EMB-110 Bandeirante,2
+2010,10 de fevereiro,Brazil,Helicóptero,1
+2010,2 de abril,Brazil,Embraer T-27 Tucano,1
+2010,10 de abril,Russia,Tupolev Tu-154,96
+2010,12 de maio,Libya,Airbus A330-200,103
+2010,13 de maio,Brazil,Seneca II,6
+2010,22 de maio,India,Boeing 737-800,158
+2010,28 de julho,Pakistan,Airbus A321,152
+2010,12 de agosto,Brazil,Learjet 55,0
+2010,16 de agosto,Colombia,Boeing 737-700,1
+2010,24 de agosto,China,Embraer ERJ-190,42
+2010,24 de agosto,Nepal,Dornier 228,14
+2010,4 de novembro,Cuba,ATR-72,68
+2011,9 de janeiro,Turkey,Boeing 727,7
+2011,14 de janeiro,Brazil,Beechcraft King Air B-200,6
+2011,13 de julho,Brazil,Bimotor (NOAR Linhas Aéreas),16
+2011,02 de agosto,Brazil,Cessna Gran Caravan,8
+2011,19 de agosto,Brazil,Agusta Westland AW139 (helicóptero),2
+2011,7 de setembro,Russia,Yakovlev Yak-42D,44
+2012,20 de abril,Brazil,Cessna 206,1
+2012,20 de abril,Pakistan,Avião comercial (Bhoja Air),126
+2012,9 de maio,Russia,Avião russo (experimental),46
+2012,3 de junho,Nigeria,MD-83 (Dana Air),153
+2012,26 de junho,Portugal,Pequena avioneta,2
+2012,28 de julho,Brazil,King Air,8
+2012,5 de setembro,Portugal,Aeronave ligeira,1
+2012,28 de setembro,Nepal,Avião (Sita Air),19
+2012,30 de novembro,Republic of the Congo,Avião de carga,20
+2012,9 de dezembro,Mexico,Avião de passageiros,"(Número não especificado, mas todos os ocupantes morreram)"
+2013,29 de abril,Afghanistan,Boeing 747 (National Airlines),7
+2013,6 de julho,USA,Boeing 777 (Asiana Airlines),2
+2013,12 de agosto,Brazil,Super Tucano,2
+2013,3 de outubro,Nigeria,EMBRAER 110,15
+2013,17 de novembro,Russia,Boeing 737,50
+2013,29 de novembro,Namibia,Embraer 190 (Linhas Aéreas de Moçambique),33
+2014,17 de julho,Ukraine,Boeing 777 (Malaysia Airlines),298
+2014,23 de julho,Taiwan,ATR 72 (Transasia),48
+2014,24 de julho,Mali,McDonnell Douglas MD-83 (Air Algérie),116
+2014,10 de agosto,Iran,Iran-140,40
+2014,13 de agosto,Brazil,Cessna Citation Excel,7
+2014,6 de setembro,Colombia,(Aeronave da Laser),10
+2014,28 de dezembro,Indonesia,A320 (Air Asia),162
+2015,4 de fevereiro,Taiwan,ATR 72-600 (TransAsia Airways),43
+2015,24 de março,France,Airbus A320 (Germanwings),150
+2015,2 de abril,Brazil,Helicóptero (em teste),"(Número não especificado, todos os ocupantes)"
+2015,7 de junho,Brazil,King Air C-90,8
+2015,30 de junho,Indonesia,Hercules C-130,141
+2015,16 de agosto,Indonesia,ATR-42 (Trigana Air),54
+2015,31 de outubro,,Airbus A321 (Kogalymavia),224
+2015,10 de novembro,Brazil,Cessna Citation 7,4
+2016,24 de fevereiro,Nepal,DHC-6 Twin Otter (Tara Air),23
+2016,15 de março,Ecuador,IAI Arava 201,22
+2016,19 de março,Russia,Boeing 737-800 (Flydubai),62
+2016,19 de março,Brazil,CA-9,7
+2016,13 de abril,Papua New Guinea,BN-2T Islander (Sunbird Aviation PNG),12
+2016,02 de maio,Brazil,Helicóptero R22,2
+2016,19 de maio,,Airbus A320 (EgyptAir),66
+2016,2 de julho,Brazil,Monomotor,3
+2016,19 de novembro,Brazil,Helicóptero (Polícia Militar),4
+2016,28 de novembro,Colombia,Avro RJ-85 (LaMia),71
+2016,4 de dezembro,Brazil,Helicóptero,4
+2016,7 de dezembro,Pakistan,Avião (Pakistan International Airlines),(Mais de 40)
+2016,7 de dezembro,Brazil,Pequeno porte,5
+2016,20 de dezembro,Colombia,Boeing 727 (Aerosucre),5
+2016,23 de dezembro,Brazil,BE-58,3
+2016,25 de dezembro,Russia,Tupolev Tu-154 (Força Aérea Russa),92
+2017,16 de janeiro,Kyrgyzstan,Boeing 747 (MyCargo Airlines),37
+2017,19 de janeiro,Brazil,Beechcraft King Air,5
+2017,24 de janeiro,Italy,AgustaWestland AW139 (helicóptero),6
+2017,20 de março,South Sudan,Antonov An-26 (South Supreme Airlines),0
+2017,27 de março,Peru,Boeing 737-300 (Peruvian Airlines),0
+2017,17 de abril,Portugal,Avião (matrícula suíça),5
+2017,29 de abril,Cuba,Antonov An-26 (Aerogaviota),8
+2017,7 de junho,Myanmar,Shaanxi Y-8,122
+2017,10 de julho,USA,Lockheed Martin KC-130 (USMC),16
+2017,12 de agosto,Brazil,INPAER Excel Cargo,1
+2017,30 de setembro,Democratic Republic of the Congo,Antonov An-12, (Todos a bordo)
+2017,14 de outubro,Ivory Coast,Avião de transporte (Exército da França),4
+2017,31 de dezembro,Costa Rica,Nature Air,12
+2018,23 de Janeiro,Brazil,Robinson R44 (helicóptero),3
+2018,11 de fevereiro,Russia,Antonov An-148 (Saratov Airlines),71
+2018,18 de fevereiro,Iran,ATR 72-200 (Aseman Airlines),65
+2018,22 de fevereiro,Brazil,Embraer EMB-720,4
+2018,12 de março,Nepal,Bombardier Dash 8 (US-Bangla Airlines),49
+2018,11 de abril,Algeria,Ilyushin Il-76 (Exército da Argélia),257
+2018,18 de maio,Cuba,Boeing 737 (Cubana de Aviación),(Mais de 100)
+2018,22 de julho,Brazil,Piper Seneca,3
+2018,29 de julho,Brazil,Beechcraft King Air C90,1
+2018,1 de agosto,Brazil,Embraer EMB-711,1
+2018,4 de agosto,Switzerland,Junkers JU52 HB-HOT (Força Aérea Suíça),20
+2018,29 de outubro,Indonesia,Boeing 737 MAX 8 (Lion Air),189
+2018,15 de dezembro,Portugal,Helicóptero (INEM),4
+2019,21 de janeiro,English Channel,Piper PA-46,1
+2019,11 de fevereiro,Brazil,Helicóptero,2
+2019,13 de fevereiro,Brazil,Cessna Aircraft 210L,1
+2019,23 de fevereiro,USA,Boeing 767-375 (Atlas Air),3
+2019,10 de março,Ethiopia,Boeing 737 MAX 8 (Ethiopian Airlines),157
+2019,27 de maio,Brazil,Piper,3
+2019,21 de outubro,Brazil,Cirrus SR20,4
+2020,8 de janeiro,Iran,Boeing 737-800 (Ukraine International Airlines),176
+2020,15 de maio,Brazil,Embraer EMB-810,4
+2020,22 de maio,Pakistan,Airbus A320 (Pakistan International Airlines),97
+2021,9 de janeiro,Indonesia,Boeing 737-500 (Sriwijaya Air),(Número não especificado)
+2021,6 de maio,Brazil,RV-10 (monomotor),1
+2021,14 de setembro,Brazil,Beechcraft King Air B200GT,7
+2021,5 de novembro,Brazil,Beech Aircraft (bimotor),5
+2022,21 de março,China,Boeing 737-800 (China Eastern Airlines),(Nenhum sobrevivente)
+2023,15 de janeiro,Nepal,ATR-72 (Yeti Airlines),72
+2023,16 de setembro,Brazil,Embraer EMB-110,14
+2024,2 de janeiro,Japan,De Havilland Canada DHC-8-315 Dash-8 (Guarda Costeira Japonesa),5
+2024,25 de janeiro,Brazil,Piper PA-24-260,2
+2024,6 de março,Brazil,Cessna Caravan (Polícia Federal),2
+2024,3 de junho,Brazil,Beechcraft (bimotor),2
+2024,9 de agosto,Brazil,ATR-72 (Voepass),62
+2024,22 de dezembro,Brazil,Piper PA-42 Cheyenne,10
+2024,25 de novembro,Lithuania,Boeing B737 (DHL),2
+2025,9 de janeiro,Brazil,Cessna Citation 525 CJ1,1
+2025,29 de janeiro,USA,Bombardier CRJ-701ER (American Eagle),64
+2025,31 de janeiro,USA,Learjet 55 (Med Jets),6
+2025,7 de fevereiro,Brazil,Beechcraft King Air F90,2
+2025,8 de fevereiro,USA,Cessna Caravan (Bering Air),(Ao menos 3)
+2025,10 de fevereiro,Brazil,Montaer MC-01,1
+2025,9 de março,Brazil,Cessna 150J,1
+2025,12 de março,Brazil,Avião agrícola,1
+2025,26 de fevereiro,Sudan,Antonov AN-12,46
+2025,9 de março,Brazil,Cessna 150J,1
+2025,12 de março,Brazil,Avião agrícola,1
+2025,13 de março,USA,Boeing 737 Next Generation (American Airlines),0
+2025,15 de março,China,Shenyang J-15 (Força Aérea da China),0
